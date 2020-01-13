@@ -1,6 +1,10 @@
-Audio-Echo
+Audio-Echo  截取音频之后播放音频音量
 ==========
-The sample demos how to use OpenSL ES to create a player and recorder in Android Fast Audio Path, and connect them to loopback audio. On most android devices, there is a optimized audio path that is tuned up for low latency purpose. The sample creates player/recorder to work in this highly optimized audio path(sometimes called native audio path, [low latency path](http://stackoverflow.com/questions/14842803/low-latency-audio-playback-on-android?rq=1), or fast audio path). The application is validated against the following configurations:
+The sample demos how to use OpenSL ES to create a player and recorder in Android Fast Audio Path, 
+and connect them to loopback audio. On most android devices, there is a optimized audio path that is tuned up for low latency purpose.
+The sample creates player/recorder to work in this highly optimized audio path(sometimes called native audio path, 
+[low latency path](http://stackoverflow.com/questions/14842803/low-latency-audio-playback-on-android?rq=1), or fast audio path). 
+The application is validated against the following configurations:
   *   Android L    AndroidOne
   *   Android M    Nexus 5, Nexus 9
 This sample uses the new Android Studio with CMake support, and shows how to use shared stl lib with android studio version 2.2.0, see CMakeLists.txt for details
@@ -21,7 +25,12 @@ Getting Started
 
 Usage
 -----
-App will capture audio from android devices and playback on the same device; the playback on speaker will be captured immediately and played back...! So to verify it, it is recommended to "mute" the playback audio with a earspeaker/earphone/earbug so it does not get looped back.  Some device like Nexus 9, once you plug in an external headphone/headspeaker, it stops to use onboard microphone AND speaker anymore -- in this case, you need turn on the microphone coming with your headphone. Another point, when switching between external headphone and internal one, the volume is sometimes very low/muted; recommend to increase the playback volume with volume buttons on the phone/pad after plugging external headphone.
+应用将从Android设备捕获音频并在同一设备上播放；扬声器上的播放将立即被捕获并播放...！所以要验证一下
+建议使用耳塞/耳机/耳塞“静音”播放音频，以免回送。
+诸如Nexus 9之类的设备一旦插入外部耳机/头戴式耳机，便会停止使用板载麦克风和扬声器
+ -在这种情况下，您需要打开耳机随附的麦克风。另一点，当在外部耳机之间切换时
+ 在内部，音量有时会很低/静音；建议使用手机/键盘上的音量按钮提高播放音量
+  插入外部耳机后。
 
 Low Latency Verification
 ------------------------
