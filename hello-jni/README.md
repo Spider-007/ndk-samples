@@ -1,4 +1,4 @@
-Hello JNI
+Hello JNI  提示了一段话 Hello from JNI !  Compiled with ABI
 =========
 Hello JNI is an Android sample that uses JNI to call C code from a Android Java Activity.
 

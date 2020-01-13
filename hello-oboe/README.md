@@ -1,4 +1,4 @@
-Hello Oboe
+Hello Oboe  kotlin 的点击界面会发出声音
 =========
 Hello Oboe is an Android sample that uses the
 [Oboe](https://github.com/google/oboe) library to play audio natively. Oboe

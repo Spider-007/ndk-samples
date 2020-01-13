@@ -1,4 +1,4 @@
-Native Audio
+Native Audio  播放各种音频 带录音以及播放url的录音
 ============
 Native Audio is an Android sample that plays and records sounds with the C++ OpenSLES API using JNI. The recorder / players created are not in fast audio path.
 

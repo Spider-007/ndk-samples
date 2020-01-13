@@ -1,4 +1,4 @@
-hello-libs
+hello-libs   Hello from Jni提示的这个！
 =========
 hello-libs is a sample that shows you how to manage 3rd party C/C++ libraries with Android Studio.
 

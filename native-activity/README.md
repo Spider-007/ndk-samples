@@ -1,4 +1,4 @@
-Native Activity
+Native Activity  自己换颜色，一触摸就透明度都变低了，摸得时候还会换颜色
 ===============
 Native Activity is an Android sample that initializes a GLES 2.0 context and reads accelerometer data from C code using [Native Activity](http://developer.android.com/reference/android/app/NativeActivity.html).
 

@@ -1,4 +1,4 @@
-Hello Neon
+Hello Neon  提示的文字以及 C version and  neon version
 ==========
 Hello Neon is an Android sample that uses ARM NEON for fir filter implementation:
 - identify NEON files in source tree, they would be just normal c/c++ source files

@@ -1,4 +1,4 @@
-Endless Tunnel
+Endless Tunnel  上下滑动的小游戏
 ==============
 Endless Tunnel is a sample game that shows how to:
 - use the Android Studio C++ support

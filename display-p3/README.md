@@ -1,6 +1,7 @@
-display-p3 ImageView Sample
+display-p3 ImageView Sample 左右两边滑动视图
 ==========================
-A sample to view Display P3 images on Android devices. If Android OS and device both support display P3 mode, two versions of the image will be displayed:
+A sample to view Display P3 images on Android devices.
+ If Android OS and device both support display P3 mode, two versions of the image will be displayed:
 - Display P3 view on the left hand side
 - sRGB view on the right hand side
 

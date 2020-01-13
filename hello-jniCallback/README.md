@@ -1,4 +1,4 @@
-Hello JNI Callback
+Hello JNI Callback jni的回调，有一个倒计时
 ==================
 This sample is an Aadd-on to Hello JNI sample to demonstrate calling back to Java from C code
 - create a java class instance from C code

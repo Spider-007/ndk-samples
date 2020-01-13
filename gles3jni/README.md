@@ -1,4 +1,4 @@
-gles3jni
+gles3jni 很美的小星星 
 =========
 gles3jni is an Android C++ sample that demonstrates how to use OpenGL ES 3.0 from JNI/native code.
 

@@ -1,4 +1,4 @@
-Hello GL2
+Hello GL2 大绿色方块下面有白色背景，有闪动效果！
 =========
 Hello GL2 is an Android C++ sample that draws a triangle using GLES 2.0 API.
 
