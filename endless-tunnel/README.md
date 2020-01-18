@@ -4,13 +4,18 @@ Endless Tunnel is a sample game that shows how to:
 - use the Android Studio C++ support
 - implement a game using Android native glue
 - implement joystick support, including robust DPAD navigation for non-touch screens
+step:1.DPAD?learn more!
+     2.edit code;
+     3.thinking!
+     4.start code !
+
 
 It is NOT the goal of this sample to show the best way to write the
-game logic, load resources, etc. The game itself was intentionally
+game logic, load resources, etc. The game itself was intentionally(故意的)
 kept rudimentary in order to keep the focus on the Android Studio C++
-integration. For example, this game contains textures and geometry
+integration. For example, this game contains textures and geometry（包含硬编码和几何图形）
 hard-coded in code, which works for small demo games like this one,
-but doesn't scale well to real games.
+but doesn't scale well to real games.（可以很好的扩展到真实游戏）
 
 This sample uses the new [Android Studio CMake plugin](http://tools.android.com/tech-docs/external-c-builds) with C++ support.
 
@@ -204,3 +209,14 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+
+Q:起点是什么地方!是如何编写的？
+A:
+
+Q:跟OpenGl是否有关系？
+A:
+
+Q:bug,buy
+A:
+
